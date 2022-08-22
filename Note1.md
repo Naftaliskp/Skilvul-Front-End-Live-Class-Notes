@@ -37,6 +37,7 @@
 > __Metode: Kano Model__ </br>
 > Teori untuk pengembangan produk dan kepuasan pelanggan yang dikembangkan pada 1980-an oleh Profesor Noriaki Kano, 
 > yang mengklasifikasikan preferensi pengguna tentang fitur ke dalam lima kategori.
+![Kano Model](kano_model.jpg)
 * 5 Kategori Kano Model
     + Must-be Quality
     + One-dimensional Quality
